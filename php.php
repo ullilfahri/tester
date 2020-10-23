@@ -1,4 +1,1 @@
-<?php
-phpinfo() l
-
-?>
+Latihan Saja
